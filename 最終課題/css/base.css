@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+body{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#top{
+    text-align: center;
+}
+
+.kanban{
+     text-align: center;
+     
+}
+
+h1{
+    color: rgb(112, 58, 3);
+    background-image: url(../../最終課題/img/bg.jpg);
+    
+}
+h2{color: rgb(255, 38, 0);
+    text-align: left;
+}
+
+
+.menu{
+    display: inline-block;
+    text-align: center;
+}
+
+.menu img{
+    width: 300px;
+}
+
+.p{
+    text-align: center;
+    text-decoration: sienna;
+    color: rgb(255, 38, 0);
+
+}
+
+.button{
+    text-align: center;
+    font-size: 30px;
+    
+
+}
+#tel{
+    font-size: 30px;
+}
